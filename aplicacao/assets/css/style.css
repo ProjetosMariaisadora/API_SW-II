@@ -6526,7 +6526,7 @@ body[themebg-pattern="theme1"] {
 
 .pcoded[fream-type="theme1"] .main-menu .main-menu-header:before,
 .pcoded[fream-type="theme1"] .page-header:before {
-	background: rgba(68, 138, 255, 0.5);
+	background: rgba(165, 68, 255, 0.5);
 }
 
 body .pcoded[pcoded-device-type="phone"][vertical-nav-type="expanded"] .pcoded-navbar,
